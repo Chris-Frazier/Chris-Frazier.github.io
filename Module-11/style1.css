@@ -1,0 +1,20 @@
+.navbar {
+  background: white
+}
+
+.box-set {
+    
+    position: absolute;
+    /* background: grey; */
+   
+  }
+
+.box-1 {
+
+    height: 300px;
+    width: 500px;
+    background: whitesmoke;
+    left: 300px;
+    top: -100px;
+
+  }
